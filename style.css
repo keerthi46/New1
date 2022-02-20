@@ -1,22 +1,25 @@
 h1,h2,h3,h4,h5,p,li
 {
   font-family: sans-serif;
+  color: #444;
 }
 h1
 {
-  color:blue;
+  color:green;
   font-size: 30px;
   text-transform: uppercase; 
   font-style: italic;
 }
+h2,h3,h4,h5
+{
+  color: blue;
+}
 h2
 {
-   color:blue;
-  font-size: 40px;
+ font-size: 40px;
  }
 h3
 {
-   color:blue;
   font-size: 38px;
   }
  h4
@@ -27,7 +30,6 @@ h3
   }
  h5
 {
-   color:blue;
   font-size: 33px;
  text-transform: uppercase;
   }
