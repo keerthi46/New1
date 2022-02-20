@@ -87,6 +87,10 @@ a:link
   color:red;
   text-decoration: none;
 }
+a:visited
+{
+  color: #777;
+}
 a:hover
 {
   color:orangered;
