@@ -89,7 +89,10 @@ footer p
 aside
 {
   background-color: #f7f7f7;
-  border:5px solid blue;
+  border:5px solid cyan;
+  padding: 50px,0;
+  width: 500px
+  
 }
  li:first-child 
 {
