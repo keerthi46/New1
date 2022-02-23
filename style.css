@@ -142,5 +142,11 @@ button
   bottom:50px;
   right:50px;
 }
+nav a:link
+{
+  display: inline-block;
+  margin-right:30px;
+  margin-left:10px;
+}
   
   
