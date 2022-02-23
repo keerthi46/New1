@@ -30,6 +30,12 @@ h1
   text-transform: uppercase; 
   font-style: italic;
 }
+h1::first-letter
+{
+font-style:normal;
+margin-right:5px;
+}
+
 h2,h3,h4,h5
 {
   color: blue;
