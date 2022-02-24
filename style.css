@@ -113,6 +113,7 @@ footer p
 .related
 {
   list-style: none;
+  margin-left:0;
 }
 .main
 {
@@ -120,10 +121,10 @@ footer p
 }
 aside
 {
-  background-color: #f7f7f7;
-  border:5px solid cyan;
+  background-color: cyan;
+  border:5px solid black;
   padding: 50px,0;
-  width: 500px
+  
   
 }
  li:first-child 
@@ -201,7 +202,6 @@ article
 {
   width:850px;
   float:left;
-  
 }
 aside
 {
