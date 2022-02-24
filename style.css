@@ -182,5 +182,13 @@ nav a:link
   margin-top:10px;
   margin-left:20px;
   }
-
+h2
+{
+  float:left;
+}
+nav
+{
+  float:right;
+}
+  
   
