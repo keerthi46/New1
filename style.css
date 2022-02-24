@@ -220,7 +220,7 @@ footer
 
 /* using flexbox*/
   
-.header
+.main
 {
   display:flex;
   align-items:center;
