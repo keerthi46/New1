@@ -108,6 +108,8 @@ footer p
 {
   font-style:italic;
   font-size: 18px;
+  margin-bottom:0;
+  margin-left:20px;
 }
 .related-author
 {
@@ -230,11 +232,6 @@ footer
 {
   display:flex;
   align-items:center;
-  margin-bottom:15px;
+  margin-bottom:30px;
 }
-#author
-{
-margin-bottom:0;
-margin-left:20px;
-}
-  
+
