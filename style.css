@@ -175,11 +175,11 @@ nav a:link
 {
   float:left;
   margin-bottom:20px;
-  
-}
+  }
 .author
 {
  /* padding-left:100px;*/
+  padding-top:10px;
   float: left;
   margin-top:10px;
   margin-left:20px;
