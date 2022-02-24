@@ -174,7 +174,10 @@ nav a:link
 .author-img
 {
   float:left;
-  margin-bottom:30px;
+  margin-bottom: 40px;
+  margin-left: 0px;
+  text-align: justify;
+}
   }
 .author
 {
