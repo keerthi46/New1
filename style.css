@@ -217,8 +217,10 @@ footer
   clear: both;
 }
 */
+
 /* using flexbox*/
-  .header
+  
+.header
 {
   display:flex;
   align-items:center;
