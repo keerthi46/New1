@@ -224,3 +224,8 @@ footer
   align-items:center;
   justify-content:space-between;
 }
+.author-box
+{
+  display:flex;
+}
+  
