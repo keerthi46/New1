@@ -79,6 +79,7 @@ h3
 { 
  font-size: 19px;
  line-height:1.5;
+  text-align:justify
 }
 ul,ol
 {
@@ -123,9 +124,8 @@ aside
 {
   background-color: cyan;
   border:5px solid black;
-  padding: 50px,0;
-  
-  
+  padding: 50px,40px;
+  box-sizing:border-box;
 }
  li:first-child 
 {
