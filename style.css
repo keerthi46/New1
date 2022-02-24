@@ -171,9 +171,9 @@ button
 }
 nav a:link
 {
-  display: inline-block;
   margin-right:30px;
-  margin-left:10px;
+  display: inline-block;
+  
 }
   /*using float
 .author-img
@@ -217,4 +217,10 @@ footer
   clear: both;
 }
 */
-  
+/* using flexbox*/
+  .header
+{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+}
