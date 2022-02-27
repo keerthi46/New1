@@ -235,5 +235,9 @@ footer
   margin-bottom:30px;
 }
 
+.related-post
+{
+  display:flex;
+}
 
 
