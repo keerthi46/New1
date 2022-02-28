@@ -102,7 +102,7 @@ li:last-child
 footer p
 {
   font-size:15px;
-  color:red;
+  color:black;
 }
 #author
 {
@@ -254,7 +254,8 @@ footer
   display: block;
 }
 
-.row
+/*flexbox layout*/
+/*.row
 {
   display:flex;
   align-items: flex-start;
@@ -271,3 +272,4 @@ aside
 {
   flex:0 0 300px;
 }
+*/
